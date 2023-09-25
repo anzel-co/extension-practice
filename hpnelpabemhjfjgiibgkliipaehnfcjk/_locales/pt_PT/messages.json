@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Ativador para Pular Anúncios em Vídeos do YouTube"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd"
+  },
+  "appDesc": {
+    "message": "Um plugin para pressionar automaticamente o botão 'Skip Ad' em vídeos do YouTube."
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "Ativador para Pular Anúncios em Vídeos do YouTube"
+  },
+  "labelStatus": {
+    "message": "Status"
+  },
+  "labelSkipVideoAds": {
+    "message": "Pular Anúncios em Vídeo"
+  },
+  "labelCloseAdBanners": {
+    "message": "Fechar Banners de Anúncios"
+  },
+  "optionsYes": {
+    "message": "Sim"
+  },
+  "optionsNo": {
+    "message": "Não"
+  },
+  "optionsOff": {
+    "message": "Desativado"
+  },
+  "optionsOn": {
+    "message": "Ativado"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "Após a Contagem Regressiva"
+  },
+  "optionsSkipImmediately": {
+    "message": "Imediatamente"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "Após 30 Segundos"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "Após 60 Segundos"
+  },
+  "optionsSkipNever": {
+    "message": "Nunca"
+  },
+  "buttonSave": {
+    "message": "Salvar"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "Restaurar para os Valores Padrão"
+  },
+  "messageSaved": {
+    "message": "Salvo!"
+  }
+}

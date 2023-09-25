@@ -1,0 +1,32 @@
+{
+    "manifest_version": "ext-v1",
+    "name": "Extension",
+    "version": "1.0.0",
+    "version_name": "Initial",
+    "short_name": "ext-tutorial",
+    "description": "Build my first extension.",
+    "author": "Ansari Usman",
+    "homepage_url": "https://anzel.co",
+    "icons": {
+        "128": "extension-tutorial-icon.png",
+        "banner": "extension-tutorial-banner.png",
+        "background": "extension-tutorial-background.png"
+    },
+    "scripts": [
+        "main.js"
+    ],
+    "modules": {
+        "console": {},
+        "runtime": {
+            "optional": false,
+            "permissions": [
+                "reload"
+            ]
+        },
+        "tabs": {},
+        "timers": {},
+        "windows": {},
+        "websessions": {},
+        "webviews": {}
+    }
+}

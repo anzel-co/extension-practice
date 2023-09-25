@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "YouTubeビデオスキップ広告トリガー"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd"
+  },
+  "appDesc": {
+    "message": "YouTubeの動画広告の「スキップ 広告」ボタンを自動で押すためのプラグインです。"
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "YouTubeビデオスキップ広告トリガー"
+  },
+  "labelStatus": {
+    "message": "ステータス"
+  },
+  "labelSkipVideoAds": {
+    "message": "動画広告をスキップ"
+  },
+  "labelCloseAdBanners": {
+    "message": "広告バナーを閉じる"
+  },
+  "optionsYes": {
+    "message": "はい"
+  },
+  "optionsNo": {
+    "message": "いいえ"
+  },
+  "optionsOff": {
+    "message": "オフ"
+  },
+  "optionsOn": {
+    "message": "オン"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "カウントダウン後"
+  },
+  "optionsSkipImmediately": {
+    "message": "すぐに"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "30秒後"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "60秒後"
+  },
+  "optionsSkipNever": {
+    "message": "スキップしない"
+  },
+  "buttonSave": {
+    "message": "保存"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "デフォルトに戻す"
+  },
+  "messageSaved": {
+    "message": "保存しました！"
+  }
+}

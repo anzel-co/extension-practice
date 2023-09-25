@@ -1,0 +1,77 @@
+<link rel="stylesheet" href="css/milligram.min.css">
+<style type="text/css">
+	select {
+		font-size: 12px;
+	}
+	.config_form {
+		display: none;
+	}
+	.form_save_msg {
+		opacity: 0;
+	}
+	.button, button, input[type='button'], input[type='reset'], input[type='submit'] {
+		background-color: #00ad97;
+		border: 0.1rem solid #00ad97;
+	}
+	.button.button-outline, button.button-outline, input[type='button'].button-outline, input[type='reset'].button-outline, input[type='submit'].button-outline {
+		background-color: transparent;
+		color: #00ad97;
+	}
+	.container {
+		max-width: 400px;
+	}
+	.data {
+		word-break: break-all;
+	}
+	label, legend {
+		font-size: 1.3rem;
+	}
+</style>
+
+<div class="container">
+
+<form class="config_form" id="config_form">
+
+	<fieldset>
+
+		<label data-locale="labelStatus">Status</label>
+		<label class="label-inline" for="status_on"><input type="radio" name="skip_status" value="true" class="skip_status" id="status_on" data-locale="optionsOn"> On </label>
+		<label class="label-inline" for="status_off"><input type="radio" name="skip_status" value="false" class="skip_status" id="status_off" data-locale="optionsOff"> Off </label>
+
+		<div class="skip_ad_config">
+
+			<label for="skip_duration" data-locale="labelSkipVideoAds">Skip Video Ads</label>
+			<select class="skip_duration" id="skip_duration">
+				<option value="skip_after_countdown"  data-locale="optionsSkipAfterCountdown">After Countdown</option>
+				<option value="skip_immediately" data-locale="optionsSkipImmediately">Immediately</option>
+				<option value="skip_after_30_secs" data-locale="optionsSkipAfter30Secs">After 30 seconds</option>
+				<option value="skip_after_60_secs" data-locale="optionsSkipAfter60Secs">After 60 seconds</option>
+				<option value="skip_never" data-locale="optionsSkipNever">Never</option>
+			</select>
+
+		</div>
+
+		<div class="ad_banner_config">
+
+			<label data-locale="labelCloseAdBanners">Close Ad-Banners</label>
+			<label class="label-inline" for="banner_on"><input type="radio" name="close_ad_banner" class="close_ad_banner" value="true" id="banner_on" data-locale="optionsYes"> Yes </label>
+			<label class="label-inline" for="banner_off"><input type="radio" name="close_ad_banner" class="close_ad_banner" value="false" id="banner_off" data-locale="optionsNo"> No </label>
+
+		</div>
+
+		<div class="footer">
+
+			<input class="button-primary" type="submit" id="submit_btn" value="Save" data-locale="buttonSave">
+			<input class="button-primary button-outline" type="button" id="reset_defaults_btn" value="Restore to Defaults" data-locale="buttonRestoreToDefaults">
+			<label class="label-inline form_save_msg" data-locale="messageSaved">Saved!</label>
+
+		</div>
+
+	</fieldset>
+
+</form>
+
+</div>
+
+<script type="text/javascript" src="js/libs/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="js/options.js"></script>

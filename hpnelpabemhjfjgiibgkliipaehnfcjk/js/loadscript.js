@@ -1,0 +1,1 @@
+"chrome"==(-1!=navigator.userAgent.indexOf("Chrome")?"chrome":"firefox")&&chrome.windows.getAll(function(e){for(var r in e)chrome.tabs.query({windowId:e[r].id},function(e){for(var r in e)-1!==e[r].url.indexOf("youtube.com")&&chrome.scripting.executeScript({target:{tabId:e[r].id,allFrames:!0},files:["js/myapp.js"]})})});

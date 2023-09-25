@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Youtube Video Skip Ad Trigger"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd"
+  },
+  "appDesc": {
+    "message": "Youtube Video पर स्वचालित रूप से Skip Ads बटन को दबाने के लिए एक प्लगइन।"
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "Youtube Video Skip Ad Trigger"
+  },
+  "labelStatus": {
+    "message": "स्थिति"
+  },
+  "labelSkipVideoAds": {
+    "message": "वीडियो विज्ञापन छोड़ें"
+  },
+  "labelCloseAdBanners": {
+    "message": "विज्ञापन-बैनर बंद करें"
+  },
+  "optionsYes": {
+    "message": "हाँ"
+  },
+  "optionsNo": {
+    "message": "नहीं"
+  },
+  "optionsOff": {
+    "message": "बंद"
+  },
+  "optionsOn": {
+    "message": "चालू"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "गिनती के बाद"
+  },
+  "optionsSkipImmediately": {
+    "message": "तुरंत"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "30 सेकंड के बाद"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "60 सेकंड के बाद"
+  },
+  "optionsSkipNever": {
+    "message": "कभी नहीँ"
+  },
+  "buttonSave": {
+    "message": "सेव करे"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "डिफ़ॉल्ट को पुनर्स्थापित करें"
+  },
+  "messageSaved": {
+    "message": "सेव कर दिया!"
+  }
+}

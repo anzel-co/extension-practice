@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Disparador de Salto de Anuncios en Videos de YouTube"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd"
+  },
+  "appDesc": {
+    "message": "Un complemento para presionar automáticamente el botón 'Saltar anuncio' en videos de YouTube."
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "Disparador de Salto de Anuncios en Videos de YouTube"
+  },
+  "labelStatus": {
+    "message": "Estado"
+  },
+  "labelSkipVideoAds": {
+    "message": "Saltar Anuncios de Video"
+  },
+  "labelCloseAdBanners": {
+    "message": "Cerrar Banners de Anuncios"
+  },
+  "optionsYes": {
+    "message": "Sí"
+  },
+  "optionsNo": {
+    "message": "No"
+  },
+  "optionsOff": {
+    "message": "Apagar"
+  },
+  "optionsOn": {
+    "message": "Encender"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "Después de la Cuenta Regresiva"
+  },
+  "optionsSkipImmediately": {
+    "message": "Inmediatamente"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "Después de 30 Segundos"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "Después de 60 Segundos"
+  },
+  "optionsSkipNever": {
+    "message": "Nunca"
+  },
+  "buttonSave": {
+    "message": "Guardar"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "Restaurar a los Valores Predeterminados"
+  },
+  "messageSaved": {
+    "message": "¡Guardado!"
+  }
+}

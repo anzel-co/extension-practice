@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Déclencheur de Sauter les Publicités Vidéo sur YouTube"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd"
+  },
+  "appDesc": {
+    "message": "Une extension pour appuyer automatiquement sur le bouton 'Skip Ads' sur les vidéos YouTube."
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "Déclencheur de Sauter les Publicités Vidéo sur YouTube"
+  },
+  "labelStatus": {
+    "message": "Statut"
+  },
+  "labelSkipVideoAds": {
+    "message": "Sauter les Publicités Vidéo"
+  },
+  "labelCloseAdBanners": {
+    "message": "Fermer les Bannières Publicitaires"
+  },
+  "optionsYes": {
+    "message": "Oui"
+  },
+  "optionsNo": {
+    "message": "Non"
+  },
+  "optionsOff": {
+    "message": "Désactivé"
+  },
+  "optionsOn": {
+    "message": "Activé"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "Après le Compte à Rebours"
+  },
+  "optionsSkipImmediately": {
+    "message": "Immédiatement"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "Après 30 Secondes"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "Après 60 Secondes"
+  },
+  "optionsSkipNever": {
+    "message": "Jamais"
+  },
+  "buttonSave": {
+    "message": "Enregistrer"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "Restaurer les Valeurs par Défaut"
+  },
+  "messageSaved": {
+    "message": "Enregistré !"
+  }
+}

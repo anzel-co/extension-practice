@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Attivatore per Saltare gli Annunci nei Video di YouTube"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd"
+  },
+  "appDesc": {
+    "message": "Un plugin per premere automaticamente il pulsante 'Salta annuncio' nei video di YouTube."
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "Attivatore per Saltare gli Annunci nei Video di YouTube"
+  },
+  "labelStatus": {
+    "message": "Stato"
+  },
+  "labelSkipVideoAds": {
+    "message": "Salta gli Annunci Video"
+  },
+  "labelCloseAdBanners": {
+    "message": "Chiudi i Banner Pubblicitari"
+  },
+  "optionsYes": {
+    "message": "Sì"
+  },
+  "optionsNo": {
+    "message": "No"
+  },
+  "optionsOff": {
+    "message": "Disattivato"
+  },
+  "optionsOn": {
+    "message": "Attivato"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "Dopo il Conto alla Rovescia"
+  },
+  "optionsSkipImmediately": {
+    "message": "Immediatamente"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "Dopo 30 Secondi"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "Dopo 60 Secondi"
+  },
+  "optionsSkipNever": {
+    "message": "Mai"
+  },
+  "buttonSave": {
+    "message": "Salva"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "Ripristina i Valori Predefiniti"
+  },
+  "messageSaved": {
+    "message": "Salvato!"
+  }
+}

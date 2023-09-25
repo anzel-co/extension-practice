@@ -1,0 +1,78 @@
+{
+  "appName": {
+    "message": "Youtube Video Skip Ad Trigger",
+    "description": "Name of the extension in manifest.json"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd",
+    "description": "Short Name of the extension in manifest.json"
+  },
+  "appDesc": {
+    "message": "A plugin for automatically pressing 'Skip Ads' button on youtube videos.",
+    "description": "Description of the extension in manifest.json"
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "Youtube Video Skip Ad Trigger",
+    "description": "The text shown on the browser icon title"
+  },
+  "labelStatus": {
+    "message": "Status",
+    "description": "Label for Status in options page"
+  },
+  "labelSkipVideoAds": {
+    "message": "Skip Video Ads",
+    "description": "Label for Skip Video Ads in options page"
+  },
+  "labelCloseAdBanners": {
+    "message": "Close Ad-Banners",
+    "description": "Label for Close Ad-Banners in options page"
+  },
+  "optionsYes": {
+    "message": "Yes",
+    "description": "Radio buttons in options page"
+  },
+  "optionsNo": {
+    "message": "No",
+    "description": "Radio buttons in options page"
+  },
+  "optionsOff": {
+    "message": "Off",
+    "description": "Radio buttons in options page"
+  },
+  "optionsOn": {
+    "message": "On",
+    "description": "Radio buttons in options page"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "After Countdown",
+    "description": "Radio buttons in options page"
+  },
+  "optionsSkipImmediately": {
+    "message": "Immediately",
+    "description": "Radio buttons in options page"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "After 30 Seconds",
+    "description": "Radio buttons in options page"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "After 60 Seconds",
+    "description": "Radio buttons in options page"
+  },
+  "optionsSkipNever": {
+    "message": "Never",
+    "description": "Radio buttons in options page"
+  },
+  "buttonSave": {
+    "message": "Save",
+    "description": "Save buttons in options page"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "Restore to Defaults",
+    "description": "Save buttons in options page"
+  },
+  "messageSaved": {
+    "message": "Saved!",
+    "description": "Saved text alert after saving settings in options page"
+  }
+}

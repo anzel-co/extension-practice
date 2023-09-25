@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Bật Tự Động Bỏ Qua Quảng Cáo Video Youtube"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd"
+  },
+  "appDesc": {
+    "message": "Plugin tự động nhấn nút 'Bỏ qua quảng cáo' trên video youtube."
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "Bật Tự Động Bỏ Qua Quảng Cáo Video Youtube"
+  },
+  "labelStatus": {
+    "message": "Trạng Thái"
+  },
+  "labelSkipVideoAds": {
+    "message": "Bỏ Qua Quảng Cáo Video"
+  },
+  "labelCloseAdBanners": {
+    "message": "Đóng Biểu Ngữ Quảng Cáo"
+  },
+  "optionsYes": {
+    "message": "Có"
+  },
+  "optionsNo": {
+    "message": "Không"
+  },
+  "optionsOff": {
+    "message": "Tắt"
+  },
+  "optionsOn": {
+    "message": "Bật"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "Sau Đếm Ngược"
+  },
+  "optionsSkipImmediately": {
+    "message": "Ngay Lập Tức"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "Sau 30 Giây"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "Sau 60 Giây"
+  },
+  "optionsSkipNever": {
+    "message": "Không Bao Giờ"
+  },
+  "buttonSave": {
+    "message": "Lưu"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "Khôi Phục Mặc Định"
+  },
+  "messageSaved": {
+    "message": "Đã Lưu!"
+  }
+}

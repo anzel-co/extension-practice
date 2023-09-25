@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Pemicu Melewati Iklan Video Youtube"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd"
+  },
+  "appDesc": {
+    "message": "Plugin untuk menekan tombol 'Lewati Iklan' secara otomatis di video youtube."
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "Pemicu Melewati Iklan Video Youtube"
+  },
+  "labelStatus": {
+    "message": "Status"
+  },
+  "labelSkipVideoAds": {
+    "message": "Lewati Iklan Video"
+  },
+  "labelCloseAdBanners": {
+    "message": "Tutup Banner Iklan"
+  },
+  "optionsYes": {
+    "message": "Ya"
+  },
+  "optionsNo": {
+    "message": "Tidak"
+  },
+  "optionsOff": {
+    "message": "Matikan"
+  },
+  "optionsOn": {
+    "message": "Hidupkan"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "Setelah Hitungan Mundur"
+  },
+  "optionsSkipImmediately": {
+    "message": "Segera"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "Setelah 30 Detik"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "Setelah 60 Detik"
+  },
+  "optionsSkipNever": {
+    "message": "Tidak Pernah"
+  },
+  "buttonSave": {
+    "message": "Simpan"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "Pulihkan ke Default"
+  },
+  "messageSaved": {
+    "message": "Disimpan!"
+  }
+}

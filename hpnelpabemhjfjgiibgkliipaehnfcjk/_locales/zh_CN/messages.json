@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "YouTube视频跳过广告触发器"
+  },
+  "appShortName": {
+    "message": "YouTubSkipAd"
+  },
+  "appDesc": {
+    "message": "一个用于自动点击YouTube视频上的“跳过广告”按钮的插件。"
+  },
+  "appBrowserActionDefaultTitle": {
+    "message": "YouTube视频跳过广告触发器"
+  },
+  "labelStatus": {
+    "message": "状态"
+  },
+  "labelSkipVideoAds": {
+    "message": "跳过视频广告"
+  },
+  "labelCloseAdBanners": {
+    "message": "关闭广告横幅"
+  },
+  "optionsYes": {
+    "message": "是"
+  },
+  "optionsNo": {
+    "message": "否"
+  },
+  "optionsOff": {
+    "message": "关闭"
+  },
+  "optionsOn": {
+    "message": "开启"
+  },
+  "optionsSkipAfterCountdown": {
+    "message": "倒计时后"
+  },
+  "optionsSkipImmediately": {
+    "message": "立即"
+  },
+  "optionsSkipAfter30Secs": {
+    "message": "30秒后"
+  },
+  "optionsSkipAfter60Secs": {
+    "message": "60秒后"
+  },
+  "optionsSkipNever": {
+    "message": "从不"
+  },
+  "buttonSave": {
+    "message": "保存"
+  },
+  "buttonRestoreToDefaults": {
+    "message": "恢复默认设置"
+  },
+  "messageSaved": {
+    "message": "已保存！"
+  }
+}
