@@ -39,7 +39,7 @@ ext.runtime.onExtensionClick.addListener(async() => {
             autoResize: { width: true, height: true}
         })
 
-        await ext.webviews.loadURL(webviewOne.id, 'https://www.youtube.com')
+        await ext.webviews.loadURL(webviewOne.id, 'https://anzel.co')
         // await ext.webviews.executeJavascript(webviewOne.id, `var elems = document.querySelectorAll('[is-shorts]'); for (var i = 0; i < elems.length; i++) {elems[i].style.display = 'none';}`)
         // await ext.webviews.executeJavascript(webviewOne.id, `var elems = document.querySelectorAll('[title="Shorts"]'); for (var i = 0; i < elems.length; i++) {elems[i].style.display = 'none';}`)
         // await ext.webviews.openDevTools(webviewOne.id, { mode: 'undocked' })
